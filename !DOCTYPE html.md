@@ -1,0 +1,93 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Chae With Me • Lee Chae Min Fan Club</title>  
+    <style>  
+        * { margin: 0; padding: 0; box-sizing: border-box; }  
+        body {  
+            font-family: 'Segoe UI', Arial, sans-serif;  
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);  
+            color: white;  
+            text-align: center;  
+            min-height: 100vh;  
+            padding: 40px 20px;  
+        }  
+        h1 { font-size: 3rem; margin-bottom: 10px; }  
+        .subtitle { font-size: 1.5rem; margin-bottom: 40px; opacity: 0.9; }  
+          
+        .btn {  
+            display: inline-block;  
+            padding: 15px 40px;  
+            font-size: 1.3rem;  
+            background: white;  
+            color: #2575fc;  
+            border-radius: 50px;  
+            text-decoration: none;  
+            font-weight: bold;  
+            margin: 20px;  
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);  
+        }  
+  
+        .section {  
+            max-width: 700px;  
+            margin: 50px auto;  
+            background: rgba(255,255,255,0.1);  
+            padding: 30px;  
+            border-radius: 20px;  
+            backdrop-filter: blur(10px);  
+        }  
+  
+        .message {  
+            background: rgba(255,255,255,0.15);  
+            padding: 20px;  
+            margin: 15px 0;  
+            border-radius: 15px;  
+            text-align: left;  
+        }  
+  
+        .fan-name {  
+            color: #ffd700;  
+            font-weight: bold;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <h1>👋 Chae With Me</h1>  
+    <p class="subtitle">Official Fan Club for Lee Chae Min</p>  
+  
+    <a href="#" class="btn" onclick="alert('Welcome to the family! 💜')">Join the Fan Club</a>  
+  
+    <div class="section">  
+        <h2>🌟 About Lee Chae Min</h2>  
+        <p>Our favorite person, talented star, and the reason we smile every day.</p>  
+    </div>  
+  
+    <div class="section">  
+        <h2>💜 Fan Messages</h2>  
+          
+        <div class="message">  
+            <p>"Chae Min, your smile lights up my darkest days! Keep shining ✨"</p>  
+            <p class="fan-name">- Aeri 💜</p>  
+        </div>  
+  
+        <div class="message">  
+            <p>"Thank you for always inspiring us to be better. You're the best!"</p>  
+            <p class="fan-name">- Minho from Seoul</p>  
+        </div>  
+  
+        <div class="message">  
+            <p>"Every time I watch you, my heart feels full. Love you forever!"</p>  
+            <p class="fan-name">- Hana 🌸</p>  
+        </div>  
+    </div>  
+  
+    <div class="section">  
+        <h2>🚀 Fan Club Goals</h2>  
+        <p>Support Lee Chae Min • Spread positivity • Connect with other fans</p>  
+    </div>  
+  
+    <p style="margin-top: 50px; opacity: 0.8;">Made with 💜 by a proud fan</p>  
+</body>  
+</html>  
